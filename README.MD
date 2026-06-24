@@ -1,6 +1,10 @@
 # Imdb Higher / Lower
 Movie guessing game built with Python and Streamlit using imdb datasets.
 
+## Live Streamlit app
+
+https://imdb-higher-lower-foxieue.streamlit.app/
+
 ## Project steps
 Project was build in 3 steps
 
